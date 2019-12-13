@@ -323,7 +323,6 @@ The following table describes the information that is available for engagement d
 | targetSkillId | ID of the target skill ID. | long |
 | agentId | ID of the current agent. | string |
 | targetAgentId | ID of the target agent ID. | string |
-| agentId | The ID of the agent who published the message. | string |
 | reason | Reason for the transfer. | long |
 | queueStartTime | Enter queue time (in transfer). | long |
 | queueEndTime | Exit queue time (in transfer). | long |
